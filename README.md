@@ -1,10 +1,10 @@
-### Autoclicker Readme
+# Autoclicker Readme
 
 Super simple autoclicker that uses
 the PyUserInput cloned from:
 https://github.com/SavinaRoja/PyUserInput.github
 
-# Setup
+### Setup
 
 First run:
 ```bash
@@ -21,7 +21,7 @@ You probably have to give yourself execute permissions as well so
 chmod u+x repclick.py
 ```
 
-# How to use
+### How to use
 
 Once you're setup, as soon as you run
 ```bash
